@@ -3,6 +3,8 @@
 Ứng dụng cho phép tự thả tim & đồng ý yêu cầu kết bạn tự động.
 Giúp bạn tăng tương tác facebook cực nhanh và hiệu quả
 
+![NUOIACC](http://i.imgur.com/ylL6LF1.jpg)
+
 Ứng dụng này có những tính năng gì:
 + Ứng dụng chỉ hoạt động khi bạn truy cập link facebook (hoặc m.facebook.com)
 + Ứng dụng cho phép bạn chọn loại action muốn thả hoặc bạn có thể chọn ngầu nhiên gồm: like, thích, wow, buồn ...
