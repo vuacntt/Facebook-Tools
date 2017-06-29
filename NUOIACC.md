@@ -1,7 +1,7 @@
 
 # Auto Thả Tim Giúp Bạn Tăng Tương Tác, Tăng Kết Bạn, Tạo Profile Cá Nhân Có Mức Độ Tương Tác Cao, Ấn Tượng
 Ứng dụng cho phép tự thả tim & đồng ý yêu cầu kết bạn tự động.
-Giúp bạn tăng tương tác facebook cực nhanh và hiệu quả
+Giúp bạn tăng tương tác facebook cực nhanh và hiệu quả.
 
 ![NUOIACC](http://i.imgur.com/ylL6LF1.jpg)
 
